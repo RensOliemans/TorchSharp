@@ -2,6 +2,12 @@
 
 Releases, starting with 9/2/2021, are listed with the most recent release at the top.
 
+# NuGet Version 0.102.7
+
+__Bug Fixes__:
+
+#1359 `L1Loss` calculated the MSE loss instead of the L1Loss erroneously.<br/>
+
 # NuGet Version 0.102.6
 
 __Breaking Changes__:
